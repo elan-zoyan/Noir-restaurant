@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NOIR — Premium Restaurant Website
 
-## Getting Started
+A modern, premium restaurant website designed to deliver an elegant digital dining experience. NOIR combines a cinematic dark aesthetic, refined gold accents, and responsive navigation to create a sophisticated online presence for an international fine-dining restaurant.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+NOIR is a restaurant website project focused on visual storytelling, elegant presentation, and a clean user experience. The design uses a dark color palette, gold highlights, premium food photography, and modern typography to reflect the atmosphere of luxury dining.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The project is being developed with reusable React components and a responsive layout, with the goal of making the website easy to maintain, customize, and extend.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Design Philosophy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Premium Dark UI:** Deep black backgrounds with elegant gold accents.
+- **Cinematic Visuals:** Large food and restaurant imagery to establish atmosphere.
+- **Elegant Typography:** Clean, modern text with refined spacing and hierarchy.
+- **Responsive Experience:** Navigation and layouts designed for desktop and mobile screens.
+- **Reusable Components:** Modular UI components for easier development and maintenance.
 
-## Learn More
+## Technology Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js** — React framework for building the website.
+- **React** — Component-based user interface.
+- **TypeScript** — Type safety and maintainable code.
+- **Tailwind CSS** — Utility-first styling and responsive layouts.
+- **shadcn/ui** — Accessible, customizable UI components.
+- **Lucide React** — Consistent icons for navigation and interface elements.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Current Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Premium dark restaurant branding.
+- Gold-accented navigation and call-to-action buttons.
+- Responsive desktop navigation.
+- Mobile navigation drawer using shadcn/ui.
+- Lucide icons for a consistent visual language.
+- Dedicated homepage sections for the hero, menu, restaurant story, experience, and contact information.
+- Reusable components designed for future expansion.
 
-## Deploy on Vercel
+## Development Status
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Status: In Development**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The initial UI foundation and navigation system are being established. The homepage is organized around reusable sections, allowing each part of the restaurant experience to be developed independently.
+
+Planned improvements include a dynamic food menu, WhatsApp ordering integration, restaurant information management, and backend functionality for orders and reservations.
