@@ -1,5 +1,6 @@
 import About from '@/components/home/About'
 import Hero from '@/components/home/Hero'
+import Menu from '@/components/home/Menu'
 import Navbar from '@/components/Navbar'
 import React from 'react'
 
@@ -9,6 +10,7 @@ const HomeRoot = () => {
         <Navbar/>
         <Hero/>
         <About/>
+        <Menu/>
     </div>
   )
 }
