@@ -49,6 +49,7 @@ const menuItems = [
     image: "/darkChocolate.jpeg",
     tag: "Popular",
   },
+  
 ];
 
 export default function Menu() {
