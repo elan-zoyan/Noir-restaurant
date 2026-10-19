@@ -1,4 +1,4 @@
-# NOIR — Premium Restaurant Website
+# NOIR Restaurant Website
 
 A modern, premium restaurant website designed to deliver an elegant digital dining experience. NOIR combines a cinematic dark aesthetic, refined gold accents, and responsive navigation to create a sophisticated online presence for an international fine-dining restaurant.
 
@@ -16,16 +16,6 @@ The project is being developed with reusable React components and a responsive l
 - **Responsive Experience:** Navigation and layouts designed for desktop and mobile screens.
 - **Reusable Components:** Modular UI components for easier development and maintenance.
 
-## Technology Stack
-
-- **Next.js** — React framework for building the website.
-- **React** — Component-based user interface.
-- **TypeScript** — Type safety and maintainable code.
-- **Tailwind CSS** — Utility-first styling and responsive layouts.
-- **shadcn/ui** — Accessible, customizable UI components.
-- **Lucide React** — Consistent icons for navigation and interface elements.
-
-## Current Features
 
 - Premium dark restaurant branding.
 - Gold-accented navigation and call-to-action buttons.
