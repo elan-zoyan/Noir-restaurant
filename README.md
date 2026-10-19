@@ -1,4 +1,5 @@
 # NOIR — Premium Restaurant Website
+# NOIR Restaurant Website
 
 A modern, premium restaurant website designed to deliver an elegant digital dining experience. NOIR combines a cinematic dark aesthetic, refined gold accents, and responsive navigation to create a sophisticated online presence for an international fine-dining restaurant.
 
@@ -42,3 +43,4 @@ The project is being developed with reusable React components and a responsive l
 The initial UI foundation and navigation system are being established. The homepage is organized around reusable sections, allowing each part of the restaurant experience to be developed independently.
 
 Planned improvements include a dynamic food menu, WhatsApp ordering integration, restaurant information management, and backend functionality for orders and reservations.
+
