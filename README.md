@@ -1,4 +1,3 @@
-# NOIR — Premium Restaurant Website
 # NOIR Restaurant Website
 
 A modern, premium restaurant website designed to deliver an elegant digital dining experience. NOIR combines a cinematic dark aesthetic, refined gold accents, and responsive navigation to create a sophisticated online presence for an international fine-dining restaurant.
