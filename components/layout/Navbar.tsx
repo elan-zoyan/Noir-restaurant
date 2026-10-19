@@ -20,7 +20,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 
-import { navLinks } from "./data/navigation";
+import { navLinks } from "../data/navigation";
 
 export default function Navbar() {
   return (
